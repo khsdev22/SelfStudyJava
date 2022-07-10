@@ -11,6 +11,7 @@
     <fullyQualifiedTypeName name="sec02.exam02.FieldInitValue"/>
     <fullyQualifiedTypeName name="sec04.exam04.Calculator"/>
     <fullyQualifiedTypeName name="sec05.exam02.Calculator"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sec05.exam03.Car"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="sec01.exam01.DmbCellPhone"/>
 </qualifiedTypeNameHistroy>
