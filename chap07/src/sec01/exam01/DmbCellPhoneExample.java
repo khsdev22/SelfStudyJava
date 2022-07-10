@@ -21,6 +21,7 @@ public class DmbCellPhoneExample {
 		dmbCellPhone.receiveVoice("Hi");
 		dmbCellPhone.hangUp();
 		
+		
 		//DmbCellPhone 클랩스의 메소드 호출
 		dmbCellPhone.turnOnDmb();
 		dmbCellPhone.changeChannelDmb(10);
