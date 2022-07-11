@@ -14,12 +14,15 @@
     <fullyQualifiedTypeName name="javax.print.DocFlavor.STRING"/>
     <fullyQualifiedTypeName name="sec01.exam02.Student"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sec01.exam03.Calculator"/>
     <fullyQualifiedTypeName name="sec01.exam03.Computer"/>
     <fullyQualifiedTypeName name="sec01.exam04.Airplane"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="sec01.exam04.SupersonicAirplane"/>
     <fullyQualifiedTypeName name="sec01.exam04.SupersonicAirplaneExample"/>
+    <fullyQualifiedTypeName name="sec01.exam07.pack1.A"/>
+    <fullyQualifiedTypeName name="sec02.exam02.Parent"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="sec02.exam03.HankookTire"/>
 </qualifiedTypeNameHistroy>
