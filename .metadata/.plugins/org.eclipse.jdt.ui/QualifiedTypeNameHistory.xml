@@ -23,6 +23,10 @@
     <fullyQualifiedTypeName name="sec01.exam07.pack1.A"/>
     <fullyQualifiedTypeName name="sec02.exam02.Parent"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="sec02.exam03.HankookTire"/>
+    <fullyQualifiedTypeName name="sec02.exam04.Vehicle"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="sec02.exam04.Driver"/>
+    <fullyQualifiedTypeName name="sec02.exam05.Parent"/>
+    <fullyQualifiedTypeName name="sec02.exam05.Child"/>
 </qualifiedTypeNameHistroy>
