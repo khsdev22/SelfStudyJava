@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="sec05.exam02.Calculator"/>
     <fullyQualifiedTypeName name="sec05.exam03.Car"/>
     <fullyQualifiedTypeName name="sec01.exam01.DmbCellPhone"/>
-    <fullyQualifiedTypeName name="javax.print.DocFlavor.STRING"/>
     <fullyQualifiedTypeName name="sec01.exam02.Student"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="sec01.exam03.Calculator"/>
@@ -25,8 +24,11 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sec02.exam03.HankookTire"/>
     <fullyQualifiedTypeName name="sec02.exam04.Vehicle"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="sec02.exam04.Driver"/>
     <fullyQualifiedTypeName name="sec02.exam05.Parent"/>
     <fullyQualifiedTypeName name="sec02.exam05.Child"/>
+    <fullyQualifiedTypeName name="sec02.exam02.Vehicle"/>
+    <fullyQualifiedTypeName name="javax.print.DocFlavor.STRING"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="sec02.exam03.Vehicle"/>
 </qualifiedTypeNameHistroy>
