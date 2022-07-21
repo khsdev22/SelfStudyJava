@@ -29,6 +29,11 @@
     <fullyQualifiedTypeName name="sec02.exam05.Child"/>
     <fullyQualifiedTypeName name="sec02.exam02.Vehicle"/>
     <fullyQualifiedTypeName name="javax.print.DocFlavor.STRING"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="sec02.exam03.Vehicle"/>
+    <fullyQualifiedTypeName name="sec02.exam01.Person"/>
+    <fullyQualifiedTypeName name="sec02.exam02.RemoteControl"/>
+    <fullyQualifiedTypeName name="sec02.exam03.Button.OnClickListener"/>
+    <fullyQualifiedTypeName name="sec02.exam04.Calculatable"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="sec02.exam04.Anonymous"/>
 </qualifiedTypeNameHistroy>
